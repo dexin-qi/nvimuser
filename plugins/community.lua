@@ -14,6 +14,7 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.git.neogit" },
+  { import = "astrocommunity.completion.tabnine-nvim" },
 }

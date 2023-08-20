@@ -28,7 +28,13 @@ return {
       transparent_background = true,
     },
   },
-  -- You can disable default plugins as follows:
+  {
+    "nvim-notify",
+    opts = {
+      background_colour = "#3f3f1f",
+    },
+  },
+  --You can disable default plugins as follows:
   -- { "max397574/better-escape.nvim", enabled = false },
   --
   -- You can also easily customize additional setup of plugins that is outside of the plugin's setup call

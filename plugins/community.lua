@@ -6,8 +6,8 @@ return {
 
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.cpp" },
-  { import = "astrocommunity.pack.cmake" },
+  -- { import = "astrocommunity.pack.cpp" },
+  -- { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.toml" },
